@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>tree1.png</Source>
+      <Name>tree1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\ParticleSystem\ParticleSystem\ParticleSystem\bin\x86\Debug\Content\tree1.xnb</Output>
+      <Time>2013-12-31T11:08:26.5798698-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tree2.png</Source>
+      <Name>tree2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\ParticleSystem\ParticleSystem\ParticleSystem\bin\x86\Debug\Content\tree2.xnb</Output>
+      <Time>2013-12-31T11:08:26.5798698-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tree3.png</Source>
+      <Name>tree3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\ParticleSystem\ParticleSystem\ParticleSystem\bin\x86\Debug\Content\tree3.xnb</Output>
+      <Time>2013-12-31T11:08:26.5798698-05:00</Time>
+    </Item>
+    <Item>
+      <Source>snailShell.png</Source>
+      <Name>snailShell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\ParticleSystem\ParticleSystem\ParticleSystem\bin\x86\Debug\Content\snailShell.xnb</Output>
+      <Time>2013-12-31T11:14:49.4093408-05:00</Time>
+    </Item>
+    <Item>
+      <Source>muzzle1.png</Source>
+      <Name>muzzle1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\ParticleSystem\ParticleSystem\ParticleSystem\bin\x86\Debug\Content\muzzle1.xnb</Output>
+      <Time>2013-12-31T11:21:19.0428863-05:00</Time>
+    </Item>
+    <Item>
+      <Source>muzzle2.png</Source>
+      <Name>muzzle2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\ParticleSystem\ParticleSystem\ParticleSystem\bin\x86\Debug\Content\muzzle2.xnb</Output>
+      <Time>2013-12-31T11:21:19.0428863-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ballBlue.png</Source>
+      <Name>ballBlue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\ParticleSystem\ParticleSystem\ParticleSystem\bin\x86\Debug\Content\ballBlue.xnb</Output>
+      <Time>2013-12-31T17:35:05.2508425-05:00</Time>
+    </Item>
+    <Item>
+      <Source>smoke.png</Source>
+      <Name>smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\ParticleSystem\ParticleSystem\ParticleSystem\bin\x86\Debug\Content\smoke.xnb</Output>
+      <Time>2014-09-26T14:41:02.0003515-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\C# files\Visual Studio 2010\Projects\ParticleSystem\ParticleSystem\ParticleSystemContent\</RootDirectory>
+      <LoggerRootDirectory>C:\C# files\Visual Studio 2010\Projects\ParticleSystem\ParticleSystem\ParticleSystem\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\C# files\Visual Studio 2010\Projects\ParticleSystem\ParticleSystem\ParticleSystemContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\C# files\Visual Studio 2010\Projects\ParticleSystem\ParticleSystem\ParticleSystem\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-03-05T10:41:10.3970559-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

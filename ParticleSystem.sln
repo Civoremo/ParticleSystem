@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParticleSystem", "ParticleSystem\ParticleSystem\ParticleSystem.csproj", "{0A712709-96F4-4522-BD46-17047A009E78}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ParticleSystemContent", "ParticleSystem\ParticleSystemContent\ParticleSystemContent.contentproj", "{D82234A7-96A4-44FD-B737-4660002BBFA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A712709-96F4-4522-BD46-17047A009E78}.Debug|x86.ActiveCfg = Debug|x86
+		{0A712709-96F4-4522-BD46-17047A009E78}.Debug|x86.Build.0 = Debug|x86
+		{0A712709-96F4-4522-BD46-17047A009E78}.Release|x86.ActiveCfg = Release|x86
+		{0A712709-96F4-4522-BD46-17047A009E78}.Release|x86.Build.0 = Release|x86
+		{D82234A7-96A4-44FD-B737-4660002BBFA5}.Debug|x86.ActiveCfg = Debug|x86
+		{D82234A7-96A4-44FD-B737-4660002BBFA5}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
